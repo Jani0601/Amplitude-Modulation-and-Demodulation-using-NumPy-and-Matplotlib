@@ -75,12 +75,16 @@ plt.tight_layout()
 plt.show()
 ```
 
+
+
 ## TABULATION
 <img width="740" height="629" alt="image" src="https://github.com/user-attachments/assets/b0e6ce2a-8b5a-4dbe-9966-f2901340ead0" />
 
 
+
 ## OUTPUT
 <img width="947" height="557" alt="image" src="https://github.com/user-attachments/assets/87933dbd-e1b5-4e2f-83a8-1e2667186c21" />
+
 
 
 
